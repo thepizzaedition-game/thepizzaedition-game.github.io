@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong> Pizza edition</strong>';
+        el.innerHTML = '<strong> The Pizza Edition</strong>';
         el.style.visibility = 'visible';
     });
 });
